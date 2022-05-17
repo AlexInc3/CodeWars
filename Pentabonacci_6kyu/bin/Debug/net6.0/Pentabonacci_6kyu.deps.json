@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pentabonacci_6kyu/1.0.0": {
+        "runtime": {
+          "Pentabonacci_6kyu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pentabonacci_6kyu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

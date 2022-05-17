@@ -1,0 +1,15 @@
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\bin\Debug\net6.0\Pentabonacci_6kyu.exe
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\bin\Debug\net6.0\Pentabonacci_6kyu.deps.json
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\bin\Debug\net6.0\Pentabonacci_6kyu.runtimeconfig.json
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\bin\Debug\net6.0\Pentabonacci_6kyu.dll
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\bin\Debug\net6.0\Pentabonacci_6kyu.pdb
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.csproj.AssemblyReference.cache
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.AssemblyInfoInputs.cache
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.AssemblyInfo.cs
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.dll
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\refint\Pentabonacci_6kyu.dll
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.pdb
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\Pentabonacci_6kyu.genruntimeconfig.cache
+C:\Users\Mr.Inc\source\repos\CodeWars\Pentabonacci_6kyu\obj\Debug\net6.0\ref\Pentabonacci_6kyu.dll
